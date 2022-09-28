@@ -1,6 +1,6 @@
 # Jung-SeungHa
 
-# BackJoon Tier
+# BackJoon Daily
 <!-- BackJoon Tier -->
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=tmdgk95&theme=warm)
 
