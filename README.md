@@ -1,6 +1,6 @@
 # Jung-SeungHa
-# # hyundai_it_e
-# 잔디
+
+# BackJoon Tier
 <!-- BackJoon Tier -->
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=tmdgk95&theme=warm)
 
